@@ -28,7 +28,6 @@ q1 = list04[-5] * list04[-4] * list04[-3] * list04[-2] * list04[-1]
 ##      the 4th to the 10th elements (inclusive).
 
 q2 = list01[3:10]
-print(f'expected:\t{[9,10,-3,5,5,3,-8]}\nrecieved:\t{q2}')
 
 ## 3.  Concatenate list01 and list04 (in that order), sort
 ##      the combined list, then extract the sublist that 
